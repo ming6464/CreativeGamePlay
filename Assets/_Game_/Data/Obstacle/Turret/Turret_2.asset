@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61960fb79bb145e58d23af9252864a32, type: 3}
+  m_Name: Turret_2
+  m_EditorClassIdentifier: Assembly-CSharp:_Game_.Scripts.Data:TurrentSO
+  prefabs: {fileID: 5171087842585469252, guid: aa7788a5930ffba4092192a10d86bfa4, type: 3}
+  type: 2
+  timeLife: 8
+  pivotFireOffset:
+    x: 0.486
+    y: 1.652
+    z: 1.584
+  bulletPerShot: 5
+  spacePerBullet: 0
+  spaceAnglePerBullet: 1
+  parallelOrbit: 0
+  speed: 80
+  damage: 250
+  cooldown: 0.1
+  distanceAim: 200
+  moveToWardMax: 50
+  moveToWardMin: 300

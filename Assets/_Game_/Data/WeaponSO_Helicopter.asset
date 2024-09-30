@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8cb0692c2c04033a3ef2aec136e52fa, type: 3}
+  m_Name: WeaponSO_Helicopter
+  m_EditorClassIdentifier: 
+  weapons:
+  - id: 0
+    weaponPrefab: {fileID: 4502064372477858661, guid: e2e559d8fe8d0fc4fbdb32b4b492273c,
+      type: 3}
+    offset:
+      x: 0.03
+      y: 0.849
+      z: -1.019
+    damage: 70
+    speed: 120
+    cooldown: 0.05
+    bulletPerShot: 3
+    spaceAnglePerBullet: 0.1
+    spacePerBullet: 0
+    parallelOrbit: 0
+  - id: 1
+    weaponPrefab: {fileID: 2000419024880572935, guid: 7e525516c626dd24ab0bc9d9032763a5,
+      type: 3}
+    offset:
+      x: 0.137
+      y: 1.239
+      z: -1.999
+    damage: 40
+    speed: 80
+    cooldown: 0.5
+    bulletPerShot: 15
+    spaceAnglePerBullet: 2
+    spacePerBullet: 0.2
+    parallelOrbit: 1
+  - id: 2
+    weaponPrefab: {fileID: 6273623115974660280, guid: ae842307530afe449be50ee0ce966723,
+      type: 3}
+    offset:
+      x: 0.16
+      y: 1.215
+      z: -1.909
+    damage: 35
+    speed: 120
+    cooldown: 0.07
+    bulletPerShot: 2
+    spaceAnglePerBullet: 0.15
+    spacePerBullet: 0
+    parallelOrbit: 0
+  - id: 3
+    weaponPrefab: {fileID: 4882288759568137940, guid: 2c534987f99a51e4a8c57b13fad0190d,
+      type: 3}
+    offset:
+      x: 0.182
+      y: 1.24
+      z: -2.172
+    damage: 20
+    speed: 110
+    cooldown: 0.05
+    bulletPerShot: 2
+    spaceAnglePerBullet: 0.15
+    spacePerBullet: 0
+    parallelOrbit: 0

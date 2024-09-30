@@ -1,0 +1,14 @@
+using Unity.Entities;
+using UnityEngine;
+
+
+public class #SCRIPTNAME# : MonoBehaviour
+{
+        
+    private class #SCRIPTNAME#Baker : Baker<#SCRIPTNAME#>
+    {
+        public override void Bake(#SCRIPTNAME# authoring)
+        {
+        }
+    }
+}

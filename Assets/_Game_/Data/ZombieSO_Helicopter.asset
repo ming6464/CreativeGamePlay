@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d8918f25c8c4f019a8f99965cf3cd22, type: 3}
+  m_Name: ZombieSO_Helicopter
+  m_EditorClassIdentifier: 
+  zombies:
+  - priorityKey: 2
+    id: 0
+    prefab: {fileID: 7846563739282400770, guid: 916e68ea8558c93499f2a84488006f19,
+      type: 3}
+    hp: 12
+    radius: 0.42
+    speed: 2
+    damage: 20
+    attackRange: 1.7
+    delayAttack: 0.5
+    chasingRange: 2
+    radiusDamage: 1.7
+    offsetAttackPosition:
+      x: 0
+      y: 0
+      z: 0
+  - priorityKey: 2
+    id: 1
+    prefab: {fileID: 3271673093327854511, guid: 0ce127a5e151d014c80c11d56c6c2c12,
+      type: 3}
+    hp: 12
+    radius: 0.42
+    speed: 2
+    damage: 5
+    attackRange: 1.7
+    delayAttack: 0.5
+    chasingRange: 2
+    radiusDamage: 1.7
+    offsetAttackPosition:
+      x: 0
+      y: 0
+      z: 0
+  - priorityKey: 2
+    id: 2
+    prefab: {fileID: 4218027828009085709, guid: 5bdc1fcf43ae4244c9adb071e3dbe86c,
+      type: 3}
+    hp: 12
+    radius: 0.42
+    speed: 2
+    damage: 10
+    attackRange: 1.7
+    delayAttack: 0.5
+    chasingRange: 2
+    radiusDamage: 1.7
+    offsetAttackPosition:
+      x: 0
+      y: 0
+      z: 0
+  - priorityKey: 0
+    id: 3
+    prefab: {fileID: 8005553429579729171, guid: df3e92f724aae794bb9225cefd668ccd,
+      type: 3}
+    hp: 1000
+    radius: 1.5
+    speed: 2.6
+    damage: 1000
+    attackRange: 2.5
+    delayAttack: 0.5
+    chasingRange: 8
+    radiusDamage: 2
+    offsetAttackPosition:
+      x: 0
+      y: 0.2
+      z: 2.2
+  - priorityKey: 1
+    id: 4
+    prefab: {fileID: 6493029578851052224, guid: 0f7476eacde426b40acf02a481963903,
+      type: 3}
+    hp: 60
+    radius: 1.3
+    speed: 2.5
+    damage: 1000
+    attackRange: 2.5
+    delayAttack: 0.5
+    chasingRange: 8
+    radiusDamage: 2
+    offsetAttackPosition:
+      x: 0
+      y: 0.2
+      z: 2.2
+  - priorityKey: 1
+    id: 5
+    prefab: {fileID: 7716682866992908874, guid: 428025eee7afd4e4a8e9d35eebe5394b,
+      type: 3}
+    hp: 1200
+    radius: 1.3
+    speed: 3
+    damage: 1000
+    attackRange: 2.5
+    delayAttack: 0.5
+    chasingRange: 8
+    radiusDamage: 2
+    offsetAttackPosition:
+      x: 0
+      y: 0.2
+      z: 2.2
