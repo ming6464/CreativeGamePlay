@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: zom_nurse_override
+  m_Controller: {fileID: 9100000, guid: a077bfcf86cdf2b429d04a385d92464c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 7604dea5627fc5a47bdd3f973d080256,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: c851a2f8efb84b54d88da187aaad61fb,
+      type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 284823c046e8ba840a3dd9ea86dce98b,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: fdbf60a5e1480304c93bb08798741cb7,
+      type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: fe80a258e575c234bbfab2d378825709,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 754b6077da382b6448675e7a4e971563,
+      type: 3}
+  - m_OriginalClip: {fileID: 1827226128182048838, guid: 784ba22cf9c30ba498fc76c5e10cc34e,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 8f754275f4ac06c41b5ca6917a54efd9,
+      type: 3}
