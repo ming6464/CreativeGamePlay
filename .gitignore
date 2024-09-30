@@ -1,0 +1,412 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+/[Bb]uilds/
+/[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+/Assets/AssetStoreTools*
+*.unitypackage
+
+/BulletStrikeUFPS/[Tt]emp/
+/BulletStrikeUFPS/[Oo]bj/
+/BulletStrikeUFPS/[Ll]ibrary/
+
+/BulletStrikeAssetBundle/[Tt]emp/
+/BulletStrikeAssetBundle/[Oo]bj/
+/BulletStrikeAssetBundle/[Bb]uild
+/BulletStrikeAssetBundle/[Bb]uilds/
+/BulletStrikeAssetBundle/[Ll]ibrary/
+
+/BulletStrikeGame3/[Tt]emp/
+/BulletStrikeGame3/[Oo]bj/
+/BulletStrikeGame3/[Bb]uild
+/BulletStrikeGame3/[Bb]uilds/
+/BulletStrikeGame3/[Ll]ibrary/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+*.pidb.meta
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+.consulo/
+/*.tmp
+/*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln*
+*.user
+*.unityproj
+*.booproj
+*.config
+*.tmp
+*.svd 
+
+# ===================================== #
+# Tung Plugins#
+# ===================================== #
+Assets/Plugins/TungAddPlugins
+Assets/_Game/Tung/Test
+Assets/UMotionEditor
+Assets/UMotionExamples
+Assets/HighlightShader
+
+
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+Corridor/Library/ShaderCache/
+Corridor/Library/metadata/
+*.csproj
+Assembly-CSharp.csproj.user
+Library
+/BulletStrikeGame/*.sln
+Library
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages
+*.nupkg
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+*_i.c
+*_p.c
+*.ilk
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.log
+*.scc
+
+# OS generated files #
+.DS_Store*
+Icon?
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Guidance Automation Toolkit
+*.gpState
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# TeamCity is a build add-in
+_TeamCity*
+
+# DotCover is a Code Coverage Tool
+*.dotCover
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject is a documentation generator add-in
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+
+# Click-Once directory
+publish/
+
+# Publish Web Output
+*.Publish.xml
+
+# Windows Azure Build Output
+csx
+*.build.csdef
+
+# Windows Store app package directory
+AppPackages/
+
+# Others
+*.Cache
+ClientBin/
+[Ss]tyle[Cc]op.*
+~$*
+*~
+*.dbmdl
+*.[Pp]ublish.xml
+*.pfx
+*.publishsettings
+modulesbin/
+tempbin/
+
+# EPiServer Site file (VPP)
+AppData/
+
+# RIA/Silverlight projects
+Generated_Code/
+
+# Backup & report files from converting an old project file to a newer
+# Visual Studio version. Backup files are not needed, because we have git ;-)
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+
+# vim
+*.txt~
+*.swp
+*.swo
+ 
+# svn
+.svn
+
+# Remainings from resolvings conflicts in Source Control
+*.orig
+
+# SQL Server files
+**/App_Data/*.mdf
+**/App_Data/*.ldf
+**/App_Data/*.sdf
+
+
+#LightSwitch generated files
+GeneratedArtifacts/
+_Pvt_Extensions/
+ModelManifest.xml
+
+# =========================
+# Windows detritus
+# =========================
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac desktop service store files
+.DS_Store
+
+# SASS Compiler cache
+.sass-cache
+
+# Visual Studio 2014 CTP
+**/*.sln.ide
+
+# Visual Studio temp something
+.vs/
+
+# VS 2015+
+*.vc.vc.opendb
+*.vc.db
+
+# Rider
+.idea/
+
+# Output folder used by Webpack or other FE stuff
+**/node_modules/*
+**/wwwroot/*
+
+#####
+# End of core ignore list, below put you custom 'per project' settings (patterns or path)
+#####
+BulletStrikeUFPS/Assets/Tuan/EasyRoads3D models.meta
+BulletStrikeUFPS/Assets/Tuan.meta
+/Assets/Plugins/UDP/Editor/*.cs
+/Assets/Plugins/UDP/Editor/*.meta
+/Assets/Plugins/UnityPurchasing/script/*.cs
+/Assets/Plugins/UnityPurchasing/script/*.meta
+/AssetBundles
+/Export
+/Assets/ProDrawCallOptimizer.meta
+/Assets/ProDrawCallOptimizer/Examples.meta
+/Assets/ProDrawCallOptimizer/Examples/ExamplesReadme.txt
+/Assets/ProDrawCallOptimizer/Examples/ExamplesReadme.txt.meta
+/Assets/ProDrawCallOptimizer/README.txt
+/Assets/ProDrawCallOptimizer/README.txt.meta
+/Assets/ProDrawCallOptimizer/Scripts.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/Atlasser.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/Atlasser.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/Constants.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/Constants.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/MaterialCombiner.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/MaterialCombiner.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/Node.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/Node.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/ObjSorter.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/ObjSorter.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/OptimizableObject.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/OptimizableObject.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/OptimizableShader.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/OptimizableShader.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/PersistenceHandler.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/PersistenceHandler.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/ShaderManager.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/ShaderManager.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/TextureReuseManager.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/TextureReuseManager.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/TileManager.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/TileManager.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/Utils.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/Utils/SelectNonMalformedUvs.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/Utils/SelectNonMalformedUvs.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/Utils/TextureScale.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/Utils/TextureScale.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/Utils/Tuple.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/Utils/Tuple.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/Utils/Utils.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/Core/Utils/Utils.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/GUI.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/GUI/ObjectSearchGUI.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/GUI/ObjectSearchGUI.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/GUI/ObjectsGUI.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/GUI/ObjectsGUI.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/GUI/ProDrawCallOptimizerMenu.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/GUI/ProDrawCallOptimizerMenu.cs.meta
+/Assets/ProDrawCallOptimizer/Scripts/Editor/GUI/SettingsMenuGUI.cs
+/Assets/ProDrawCallOptimizer/Scripts/Editor/GUI/SettingsMenuGUI.cs.meta
+/Assets/ProDrawCallOptimizer/VersionHistory.txt
+/Assets/ProDrawCallOptimizer/VersionHistory.txt.meta
+/Bullet Strike
+/Bullet Strike.zip
+/Assets/Editor/AndroidPostBuildProcessor.cs
+/Assets/Editor/AndroidPostBuildProcessor.cs.meta
+/Export-AutoGraphicAPI
+/Export-Vulkan
+/Export-Vulkan-Built-in
+/Export-Vulkan-Built-in-Release
+/Export-Vulkan-Built-in-Debug
+/Assets/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/6.12.0/firebase-analytics-unity-6.12.0.aar.meta
+/Assets/Firebase/m2repository/com/google/firebase/firebase-app-unity/6.12.0/firebase-app-unity-6.12.0.aar.meta
+/Assets/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/6.12.0/firebase-messaging-unity-6.12.0.aar.meta
+/Assets/GooglePlayGames/Editor/m2repository/com/google/games/gpgs-plugin-support/0.10.07/gpgs-plugin-support-0.10.07.aar.meta
+/Assets/Mirror
+/Assets/ScriptTemplates
+/Assets/AmplifyShaderEditor
+
+Assets/_Game/THIN/Shaders/Test
+Assets/_Game/THIN/Shaders/Test.meta
+Assets/_Game/THIN/Scripts/Test
+Assets/_Game/THIN/Scripts/Test.meta
+Assets/_Game/THIN/Scenes
+Assets/_Game/THIN/Scenes.meta
+Assets/_Game/THIN/Models/Test
+Assets/_Game/THIN/Models/Test.meta
+Assets/_Game/THIN/Materials/Test
+Assets/_Game/THIN/Materials/Test.meta
+Assets/_Game/THIN/Textures/Test
+Assets/_Game/THIN/Textures/Test.meta
+Assets/_Game/THIN/Documents
+Assets/_Game/THIN/Documents.meta
+Assets/_Game/THIN/ScriptableObjects/Test
+Assets/_Game/THIN/ScriptableObjects/Test.meta
+Assets/_Game/THIN/Packages
+Assets/_Game/THIN/Packages.meta
+Assets/_Game/THIN/Prefabs/Test
+Assets/_Game/THIN/Prefabs/Test.meta
+Assets/_Game/THIN/Notes
+Assets/_Game/THIN/Notes.meta
+Assets/_Game/THIN/Local
+Assets/_Game/THIN/Local.meta
+Recordings/
+ProjectSettings/QualitySettings.asset
+ProjectSettings/PackageManagerSettings.asset
+Logs/ApiUpdaterCheck.txt
+Assets/shared_data.bytes.meta
+Assets/shared_data.bytes
+SkySeries FreeBie
+SkySeries FreeBie.meta
+UIElementsSchema/UnityEngine.UIElements.xsd
+UIElementsSchema/UnityEditor.UIElements.xsd
+UIElementsSchema/UnityEditor.UIElements.Debugger.xsd
+UIElementsSchema/UnityEditor.PackageManager.UI.xsd
+UIElementsSchema/Unity.DeviceSimulator.xsd
+UIElementsSchema/Unity.Cloud.Collaborate.Views.xsd
+UIElementsSchema/Unity.Cloud.Collaborate.Components.xsd
+UIElementsSchema/Unity.Cloud.Collaborate.Components.ChangeListEntries.xsd
+UIElementsSchema/UIElements.xsd
+Assets/I2Terms.json
+Assets/I2Terms.json.meta
+Assets/battle_data.bytes
+Assets/battle_data.bytes.meta
+Assets/_Game/MINH DEV/TestScene Minh
+Assets/_Game/MINH DEV/TestScene Minh.meta
+*.reapeaks
+*.reapeaks.meta
+Assets/_Game/THIN/Scripts/UnitTests.meta
+Assets/_Game/THIN/Scripts/UnitTests
+Assets/_Game/THIN/Scripts/Lab.meta
+Assets/_Game/THIN/Scripts/Lab
